@@ -1,5 +1,7 @@
 {
   "name": "TestUID",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
